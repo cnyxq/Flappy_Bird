@@ -1,0 +1,53 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "res_bundle.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "background": {
+      "__uuid__": "5f3d1d14-7c61-43be-8344-ed9f9ee5fc9c"
+    },
+    "bird1": {
+      "__uuid__": "f8428485-fb64-4317-8216-c6ac48fbae75"
+    },
+    "bird2": {
+      "__uuid__": "36a30a1d-89bd-4f45-bfde-946e77579ec9"
+    },
+    "bird3": {
+      "__uuid__": "a4b58f7a-eaed-4cad-acf8-2c5bf04a19f8"
+    },
+    "bottom_pipe": {
+      "__uuid__": "b22fe7f3-cd88-4ba5-9123-b0213486cdce"
+    },
+    "game_name": {
+      "__uuid__": "7dd44840-ac0f-4fd8-8ea8-62ccfc8ff1fa"
+    },
+    "gameover": {
+      "__uuid__": "607d7c6d-8a81-4109-89f0-a3c1d2739714"
+    },
+    "getready": {
+      "__uuid__": "3be5c4fe-e80d-4cf5-8dbc-f8d3221e5fd4"
+    },
+    "ground": {
+      "__uuid__": "73a7d8e4-0fc7-41fc-84b2-d61657229dd4"
+    },
+    "medal_gold": {
+      "__uuid__": "73eaf668-4cbc-4deb-90bc-ca49f8c82935"
+    },
+    "medal_silver": {
+      "__uuid__": "ea3da20b-d544-463a-8763-146cd5ff98c1"
+    },
+    "result_board": {
+      "__uuid__": "f3f16665-bb34-4644-9c8c-8381559305bd"
+    },
+    "start": {
+      "__uuid__": "8dc2788b-aa7d-403d-a6fe-dc6279945120"
+    },
+    "tap": {
+      "__uuid__": "85734165-af83-4ee3-ae55-462f38a6264a"
+    },
+    "top_pipe": {
+      "__uuid__": "9611bddc-caa6-484d-a3cb-8d2dc473536e"
+    }
+  }
+}
